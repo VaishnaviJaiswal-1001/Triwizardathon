@@ -55,11 +55,14 @@ Then open index.html in your browser.
 ---
 
 # Screenshots
-- Login Page 
--
--
--
--
+- ![Login Page](https://github.com/user-attachments/assets/86d41c01-9493-4729-bc7b-045a61ec7391)
+- ![Quiz Page](https://github.com/user-attachments/assets/bfb5b98d-ecae-41aa-b2c3-8b0638d73ff0)
+- ![Score Board](https://github.com/user-attachments/assets/ffd162ca-b2a9-4241-8fba-56d92834a23d)
+- ![Winner Certificate](https://github.com/user-attachments/assets/69c807f2-8f6e-416b-a028-d45212193127)
+- ![Participation Certificate](https://github.com/user-attachments/assets/9f3a25ff-d122-4ded-8316-7561f9b7a830)
+
+---
+
 # Learnings
 
 * Modular JavaScript and component separation
@@ -81,4 +84,4 @@ This project is for educational and entertainment purposes only.
 * Music credit: Hedwig’s Theme (used under fair use for learning)
 * Thanks to open-source and creative coding communities 
 
-```
+---
